@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{c as o,o as c}from"./DeymVjhc.js";const t={};function n(r,a){return c(),o("p",null,"Welcome to technology page")}const _=e(t,[["render",n]]);export{_ as default};
