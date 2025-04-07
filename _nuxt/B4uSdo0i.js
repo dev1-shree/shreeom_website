@@ -1,1 +1,0 @@
-import{_ as n}from"./DlAUqK2U.js";import{c as o,o as t,a as r}from"./wWrDb5NR.js";const a={};function s(l,e){return t(),o("div",null,e[0]||(e[0]=[r("h1",null,"Our Services",-1),r("p",null,"We offer a range of services including web development, mobile app development, and digital marketing. ",-1)]))}const d=n(a,[["render",s]]);export{d as default};
